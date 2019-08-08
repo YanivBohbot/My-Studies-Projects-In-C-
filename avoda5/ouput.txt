@@ -1,0 +1,4 @@
+The length of objects type MyArray<Student>:0
+The length of objects type MyArray<Employee>:6
+The number of objects type MyArray<Student>:2
+The number of objects type MyArray<Employee>:3
